@@ -35,5 +35,5 @@ crons = ["0 16 * * *"]
 # admin = "admin@example.com"
 jwt_secret = "5de8a3fe4a9be643155e8f75099979485cd1a02d4c1130ea525a0c051a81d324"
 
-[build]
-command = "pnpm --prefix ../mail-vue install && pnpm --prefix ../mail-vue run build"
+# [build]
+# command = "pnpm --prefix ../mail-vue install && pnpm --prefix ../mail-vue run build"
